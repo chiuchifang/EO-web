@@ -1,0 +1,51 @@
+<ul>
+<li>清單</ul>=.清單
+</ul>
+
+<ol>=有序
+<LI>xasdasda</LI>
+</OL>
+
+1
+2
+3
+<a href=""> (超連結)</a> 
+
+
+導覽列
+nav
+
+img
+
+TR直
+TD橫
+
+
+style寫在頭裡面
+
+.special{
+
+}
+
+點後面是分類class"special"
+
+
+diV(容器
+width文字框度
+border 邊框
+padding間距
+line-hight行高
+height(容器高度)
+div a(容器裡面的超連結)
+
+Xmind:ZEN(心智圖)
+
+
+
+margin  0px           20px         40px(看不到的間距
+       (上下間距)   (左右間距)    (只有下)
+上右下左
+
+
+
+box-sizing: border-box
